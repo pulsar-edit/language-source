@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # Source code support in Atom
 
 Adds basic comment, indent, and outdent patterns used as a fallback by all
